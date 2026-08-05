@@ -82,26 +82,10 @@ Configure seu número no arquivo de configuração do projeto.
 ## ⚙️ Instalação no Termux
 <details>
 <summary><b>▶️ Clique aqui para ver o passo a passo de instalação</b></summary>
+```bash
 pkg update && pkg upgrade
 pkg install git nodejs -y
-git clone https://github.com/neozeraa/gretbot
+git clone [https://github.com/neozeraa/gretbot](https://github.com/neozeraa/gretbot)
 cd gretbot
 npm install
 npm start
-</details>
----
-## 👥 Colaboradores
-Essas são as pessoas que ajudaram na construção e evolução do projeto:
-<p align="left">
-  <a href="https://github.com/neozeraa">
-    <img src="https://github.com/neozeraa.png" width="60" height="60" style="border-radius: 50%;" alt="neozeraa">
-  </a>
-</p>
----
-## 💖 Agradecimento à Comunidade
-<p align="center">
-  <img src="https://img.shields.io/badge/OBRIGADO-%F0%9F%92%96-black?style=for-the-badge" alt="Obrigado">
-</p>
-O **GRET BOT** nasceu com a missão de entregar um projeto acessível, rápido e totalmente customizável para todos.
-Atualmente, o projeto segue sob responsabilidade do **neozeraa**, que assumiu o controle e continua o desenvolvimento de forma independente, trazendo melhorias, correções e novas funcionalidades, mantendo tudo open-source para a comunidade.
-Para todos que acompanham e apoiam essa nova fase: **muito obrigado por fazerem parte do projeto!** 🚀
