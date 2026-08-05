@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neozeraa/gretbot/main/menu.jpg" alt="GRET BOT" width="100%">
+  <img src="https://raw.githubusercontent.com/neozeraa/gretbot/2061320061e8ab9ecc95ab6ab0c105a00cd2e43f/1785933814387.png" alt="GRET BOT Logo" width="100%">
 </p>
+
 <h1 align="center">GRET BOT</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ATIVO-brightgreen" alt="Status">
