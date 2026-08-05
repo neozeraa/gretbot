@@ -1,0 +1,21 @@
+{
+  "commands": [
+    {
+      "command": "vip_ia",
+      "description": "IA OpenAI",
+      "category": "ia",
+      "usage": "vip_ia",
+      "addedAt": "2026-08-02T17:52:50.469Z",
+      "enabled": true
+    }
+  ],
+  "categories": {
+    "download": "📥 Downloads",
+    "diversao": "🎮 Diversão",
+    "utilidade": "🛠️ Utilidade",
+    "ia": "🤖 Inteligência Artificial",
+    "editor": "✨ Editor",
+    "info": "ℹ️ Informação",
+    "outros": "📦 Outros"
+  }
+}

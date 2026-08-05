@@ -1,0 +1,26 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-05T12:07:09.010Z",
+  "groupName": "Trades e vendas de brainrot",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "273517073399920@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Robert B",
+      "firstSeen": "2026-08-05T12:07:09.362Z",
+      "lastActivity": "2026-08-05T12:07:14.735Z"
+    }
+  ]
+}

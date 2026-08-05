@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "message": "❌{command} não existe! User ,menu pra veh os comandos disponíveis!",
+  "style": "friendly",
+  "variables": {
+    "command": "{command}",
+    "prefix": "{prefix}",
+    "user": "{user}",
+    "botName": "{botName}",
+    "userName": "{userName}"
+  },
+  "lastUpdated": "2026-08-05T12:37:03.525Z"
+}

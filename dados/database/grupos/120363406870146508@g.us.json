@@ -1,0 +1,35 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-04T10:00:40.415Z",
+  "groupName": "𝑻𝒓𝒐𝒄𝒂𝒔 𝒆 𝒗𝒆𝒏𝒅𝒂𝒔 𝑳𝒁",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "135193272783013@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Paz",
+      "firstSeen": "2026-08-04T10:00:40.601Z",
+      "lastActivity": "2026-08-04T10:00:40.601Z"
+    },
+    {
+      "id": "273517073399920@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Robert B",
+      "firstSeen": "2026-08-05T12:07:09.868Z",
+      "lastActivity": "2026-08-05T12:07:14.797Z"
+    }
+  ]
+}

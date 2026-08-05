@@ -1,0 +1,62 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-04T08:43:02.805Z",
+  "groupName": "Blox fruit vendas/trocas",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "13525053345882@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Th",
+      "firstSeen": "2026-08-04T08:43:02.905Z",
+      "lastActivity": "2026-08-04T08:43:02.905Z"
+    },
+    {
+      "id": "149181561884690@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "DAVY LUCAS",
+      "firstSeen": "2026-08-04T08:43:03.546Z",
+      "lastActivity": "2026-08-04T08:43:03.546Z"
+    },
+    {
+      "id": "215539444121718@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Pedro",
+      "firstSeen": "2026-08-04T08:43:38.319Z",
+      "lastActivity": "2026-08-04T08:43:38.319Z"
+    },
+    {
+      "id": "154099802763313@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "MI567009",
+      "firstSeen": "2026-08-05T12:38:17.523Z",
+      "lastActivity": "2026-08-05T12:38:17.523Z"
+    },
+    {
+      "id": "87991598977041@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "𝕭𝖗𝖆𝖞𝖆𝖓",
+      "firstSeen": "2026-08-05T12:49:56.378Z",
+      "lastActivity": "2026-08-05T12:49:56.378Z"
+    }
+  ]
+}

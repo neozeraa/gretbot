@@ -1,0 +1,26 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-04T09:19:01.433Z",
+  "groupName": " Blox fruits ",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "23403981475885@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "MI852361",
+      "firstSeen": "2026-08-04T09:19:01.543Z",
+      "lastActivity": "2026-08-05T12:25:18.134Z"
+    }
+  ]
+}

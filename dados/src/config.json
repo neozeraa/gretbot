@@ -1,14 +1,14 @@
 {
-  "nomedono": "DevTokyo",
-  "numerodono": "553285076326",
-  "nomebot": "Nazuna",
-  "prefixo": ".",
+  "nomedono": "Neo",
+  "numerodono": "+83993845506",
+  "nomebot": "GRET BOT",
+  "prefixo": ",",
   "site_vex": "https://vexapi.com.br",
-  "apikey_vex": "SUAKEY",
-  "lidowner": "278696501993618@lid",
-  "github_ofc": "https://github.com/DevTokyoVx/nazuna",
-  "autor": "DevTokyoVx",
-  "repositorio": "nazuna",
+  "apikey_vex": "b3f4d5ad-445d-473b-8bec-a6da490de404",
+  "lidowner": "149181561884690@lid",
+  "github_ofc": "",
+  "autor": "NeoZera",
+  "repositorio": "gretbot",
   "WA_WEB_VERSION": {
     "aviso": "Não mexa aqui, pode afetar o funcionamento do BOT.",
     "value": [

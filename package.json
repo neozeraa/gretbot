@@ -1,7 +1,7 @@
 {
-    "name": "nazuna",
+    "name": "gretbot",
     "version": "10.2.0",
-    "description": "Bot de whatsapp atualizada",
+    "description": "GRET BOT - Assistente Inteligente",
     "type": "module",
     "main": "dados/src/connect.js",
     "scripts": {
@@ -16,7 +16,7 @@
         "url": "git+https://github.com/DevTokyoVx/nazuna"
     },
     "homepage": "https://vexapicom.br",
-    "author": "Tokyo",
+    "author": "neozera",
     "license": "ISC",
     "dependencies": {
         "@hapi/boom": "^10.0.1",

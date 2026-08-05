@@ -1,0 +1,26 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-03T02:24:45.374Z",
+  "groupName": "👑 Império das Vendas",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "89473228501130@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "SWAT BLACK",
+      "firstSeen": "2026-08-03T02:24:45.508Z",
+      "lastActivity": "2026-08-03T20:23:31.018Z"
+    }
+  ]
+}

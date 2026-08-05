@@ -1,0 +1,26 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-02T17:50:43.339Z",
+  "groupName": "NAZUMA BOT/TESTE",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "149181561884690@lid",
+      "msg": 54,
+      "cmd": 72,
+      "figu": 0,
+      "pushname": "DAVY LUCAS",
+      "firstSeen": "2026-08-02T17:50:43.465Z",
+      "lastActivity": "2026-08-05T12:50:26.068Z"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-04T09:30:32.403Z",
+  "groupName": "☠︎ Sukuna shop ☠︎",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "38595163328623@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "🕷️",
+      "firstSeen": "2026-08-04T09:30:32.469Z",
+      "lastActivity": "2026-08-04T09:30:32.469Z"
+    },
+    {
+      "id": "135193272783013@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Paz",
+      "firstSeen": "2026-08-04T09:59:57.693Z",
+      "lastActivity": "2026-08-04T09:59:57.699Z"
+    }
+  ]
+}

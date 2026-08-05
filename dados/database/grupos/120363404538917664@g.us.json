@@ -1,0 +1,26 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-04T10:00:52.055Z",
+  "groupName": "𝐌𝟒𝐉𝐈𝐍 𝐒𝐓𝐎𝐑𝐄",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "135193272783013@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Paz",
+      "firstSeen": "2026-08-04T10:00:52.107Z",
+      "lastActivity": "2026-08-04T10:00:52.107Z"
+    }
+  ]
+}

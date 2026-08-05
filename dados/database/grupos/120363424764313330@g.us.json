@@ -1,0 +1,44 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-02T22:21:54.537Z",
+  "groupName": "SUKUNA Տᴛᴏʀᴇ",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "41043378569391@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Bx Store",
+      "firstSeen": "2026-08-02T22:21:54.763Z",
+      "lastActivity": "2026-08-02T22:21:54.763Z"
+    },
+    {
+      "id": "191319955791977@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Rnz Store",
+      "firstSeen": "2026-08-03T00:44:12.843Z",
+      "lastActivity": "2026-08-03T00:44:12.862Z"
+    },
+    {
+      "id": "89473228501130@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "SWAT BLACK",
+      "firstSeen": "2026-08-03T02:22:26.657Z",
+      "lastActivity": "2026-08-03T20:21:45.949Z"
+    }
+  ]
+}

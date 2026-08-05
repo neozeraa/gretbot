@@ -1,0 +1,26 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-03T13:14:39.888Z",
+  "groupName": "TURMA 366💪🏾",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "267928666697904@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "MATEUS HENRIQUE",
+      "firstSeen": "2026-08-03T13:14:40.023Z",
+      "lastActivity": "2026-08-03T19:52:26.302Z"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-03T12:00:55.911Z",
+  "groupName": "Inteligência Artificial na Prática | Imersão Gratuita #77",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "189696441356495@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Daxus T10",
+      "firstSeen": "2026-08-03T12:00:56.203Z",
+      "lastActivity": "2026-08-03T12:00:57.375Z"
+    },
+    {
+      "id": "169080648638573@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Guiomar",
+      "firstSeen": "2026-08-03T16:25:36.183Z",
+      "lastActivity": "2026-08-03T16:25:36.196Z"
+    },
+    {
+      "id": "137662962872549@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Daxus",
+      "firstSeen": "2026-08-03T18:22:23.208Z",
+      "lastActivity": "2026-08-03T22:21:04.667Z"
+    },
+    {
+      "id": "262341467889809@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Ariane Tavares",
+      "firstSeen": "2026-08-03T19:31:30.253Z",
+      "lastActivity": "2026-08-03T19:31:30.267Z"
+    },
+    {
+      "id": "200957895930053@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Daxus D6",
+      "firstSeen": "2026-08-03T21:01:13.100Z",
+      "lastActivity": "2026-08-03T22:41:04.002Z"
+    },
+    {
+      "id": "94648362106913@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Pastora Maria Brandao",
+      "firstSeen": "2026-08-03T22:32:48.033Z",
+      "lastActivity": "2026-08-03T22:32:48.094Z"
+    },
+    {
+      "id": "106450965815302@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Sérgio",
+      "firstSeen": "2026-08-03T22:41:25.274Z",
+      "lastActivity": "2026-08-03T22:41:25.274Z"
+    },
+    {
+      "id": "40596165156985@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Belenildes Cavalcante",
+      "firstSeen": "2026-08-04T01:03:53.826Z",
+      "lastActivity": "2026-08-04T01:03:53.826Z"
+    },
+    {
+      "id": "36674927067225@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Lucinéia",
+      "firstSeen": "2026-08-05T12:07:10.333Z",
+      "lastActivity": "2026-08-05T12:07:10.333Z"
+    }
+  ]
+}
