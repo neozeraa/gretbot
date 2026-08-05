@@ -4,9 +4,9 @@
 <h1 align="center">GRET BOT</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ATIVO-brightgreen" alt="Status">
-  <img src="https://img.shields.io/badge/VERS%C3%83O-V1.0.0-blue" alt="Versão">
-  <img src="https://img.shields.io/badge/ESTRELAS-0-yellow" alt="Estrelas">
-  <img src="https://img.shields.io/badge/FORKS-0-blueviolet" alt="Forks">
+  <img src="https://img.shields.io/badge/VERS%C3%83O-V2.4.5-blue" alt="Versão">
+  <img src="https://img.shields.io/badge/ESTRELAS-3-yellow" alt="Estrelas">
+  <img src="https://img.shields.io/badge/FORKS-3-blueviolet" alt="Forks">
 </p>
 <p align="center">
   <b>Bot 100% editável, gratuito e descritivo.</b>
@@ -98,6 +98,7 @@ Siga o passo a passo abaixo para configurar o seu número:
 <details>
 <summary><b>🛞 Instalação no termux</b></summary>
 Abra o termux e faça em sequência o que está ai
+  
 1️⃣ `pkg update && pkg upgrade`
   
 2️⃣ `pkg install git nodejs -y`
@@ -118,6 +119,7 @@ Abra o termux e faça em sequência o que está ai
 
 🔟 `Teste os comandos do seu bot diretamente no número conectado!`
 </details>
+
 ---
 
 ## 👥 Colaboradores
