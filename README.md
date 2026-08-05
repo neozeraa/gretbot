@@ -82,15 +82,22 @@ Sim, basta ter o Termux instalado para rodar o bot no Android.
 Configure seu número no arquivo de configuração do projeto.
 </details>
 <details>
-<summary><b>🛞 Instalação pelo termux</b></summary>
-É MUITO FÁCIL E SIMPLES, ABRA SÓ O TERMUX E SIGA OS COMANDOS EM SEQUÊNCIA DE 1 A 6
-1-pkg update && pkg upgrade
-2-pkg install git nodejs -y
-3-git clone https://github.com/neozeraa/gretbot
-4-cd gretbot
-5-npm install
-6-npm start
-</details>
+<summary><b>🛞 Instalação no termux</b></summary>
+Abra o termux e faça em sequência o que está ai
+
+1️⃣ pkg update && pkg upgrade
+  
+2️⃣ pkg install git nodejs -y
+
+3️⃣ git clone [https://github.com/neozeraa/gretbot](https://github.com/neozeraa/gretbot)
+
+4️⃣ cd gretbot
+
+5️⃣ npm install
+
+6️⃣ npm start
+
+</details> 
 ---
 
 ## 👥 Colaboradores
