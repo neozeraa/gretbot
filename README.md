@@ -16,15 +16,16 @@
   <a href="#"><img src="https://img.shields.io/badge/CANAL_OFICIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Canal Oficial"></a>
 </p>
 ---
-## 📌 Sumário
+
+ ## 📌 Sumário
 * 🆕 [Novidades da última atualização](#-novidades-da-última-atualização)
 * 🚀 [Continuidade do Projeto](#-continuidade-do-projeto)
 * 📊 [O Legado em Números](#-o-legado-em-números)
 * ❓ [Perguntas Frequentes](#-perguntas-frequentes)
-* ⚙️ [Instalação no Termux](#%EF%B8%8F-instalação-no-termux)
 * 👥 [Colaboradores](#-colaboradores)
 * 💖 [Agradecimento à Comunidade](#-agradecimento-à-comunidade)
 ---
+
 ## 🆕 Novidades da última atualização
 <p align="center">
   <img src="https://img.shields.io/badge/VERS%C3%83O-V1.0.0-blue" alt="Versão">
@@ -48,9 +49,11 @@
 * Resposta rápida em comandos de mídia.
 </details>
 ---
+
 ## 🚀 Continuidade do Projeto
 O **GRET BOT** segue em **desenvolvimento ativo**, recebendo atualizações, melhorias e correções para manter o código open-source e acessível para toda a comunidade.
 ---
+
 ## 📊 O Legado em Números
 Tudo o que construímos juntos ao longo dessa jornada:
 
@@ -78,14 +81,31 @@ Sim, basta ter o Termux instalado para rodar o bot no Android.
 <summary><b>👑 Como virar dono do bot?</b></summary>
 Configure seu número no arquivo de configuração do projeto.
 </details>
----
-## ⚙️ Instalação no Termux
 <details>
-<summary><b>▶️ Clique aqui para ver o passo a passo de instalação</b></summary>
-```bash
-pkg update && pkg upgrade
-pkg install git nodejs -y
-git clone [https://github.com/neozeraa/gretbot](https://github.com/neozeraa/gretbot)
-cd gretbot
-npm install
-npm start
+<summary><b>🛞 Instalação pelo termux</b></summary>
+É MUITO FÁCIL E SIMPLES, ABRA SÓ O TERMUX E SIGA OS COMANDOS EM SEQUÊNCIA DE 1 A 6
+1-pkg update && pkg upgrade
+2-pkg install git nodejs -y
+3-git clone https://github.com/neozeraa/gretbot
+4-cd gretbot
+5-npm install
+6-npm start
+</details>
+---
+
+## 👥 Colaboradores
+Essas são as pessoas que ajudaram na construção e evolução do projeto:
+<p align="left">
+  <a href="https://github.com/neozeraa">
+    <img src="https://github.com/neozeraa.png" width="60" height="60" style="border-radius: 50%;" alt="neozeraa">
+  </a>
+</p>
+---
+
+## 💖 Agradecimento à Comunidade
+<p align="center">
+  <img src="https://img.shields.io/badge/OBRIGADO-%F0%9F%92%96-black?style=for-the-badge" alt="Obrigado">
+</p>
+O **GRET BOT** nasceu com a missão de entregar um projeto acessível, rápido e totalmente customizável para todos.
+Atualmente, o projeto segue sob responsabilidade do **neozeraa**, que assumiu o controle e continua o desenvolvimento de forma independente, trazendo melhorias, correções e novas funcionalidades, mantendo tudo open-source para a comunidade.
+Para todos que acompanham e apoiam essa nova fase: **muito obrigado por fazerem parte do projeto!** 🚀
