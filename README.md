@@ -30,7 +30,7 @@
 
 ## 🆕 Novidades da última atualização
 <p align="center">
-  <img src="https://img.shields.io/badge/VERS%C3%83O-V1.0.0-blue" alt="Versão">
+  <img src="https://img.shields.io/badge/VERS%C3%83O-V2.4.5-blue" alt="Versão">
 </p>
 <details>
 <summary><b>🔧 Correções</b></summary>
